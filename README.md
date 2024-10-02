@@ -13,7 +13,7 @@ Responsabilidades:
 [Google](http://google.com)
 ![pandas](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/640px-Grosser_Panda.JPG)
 
-Para instalar este proyecto debéis escribir `npm install` 
+Para instalar este proyecto debéis escribir `npm install`
 
 > El sol sale por el este.
 
