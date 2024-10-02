@@ -15,4 +15,6 @@ Responsabilidades:
 
 Para instalar este proyecto debéis escribir `npm install` 
 
+> El sol sale por el este.
+
 # Formación académica
